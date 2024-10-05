@@ -40,3 +40,10 @@ section {
     font-size: 40px;
     color: #fff;
 }
+#home { background-color: #1abc9c; }
+#services { background-color: #3498db; }
+#about { background-color: #9b59b6; }
+#contact { background-color: #e74c3c; }
+.scrolled {
+    background-color: #222;
+}
